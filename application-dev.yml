@@ -1,3 +1,4 @@
 from: git-dev
 
-config: 99919
+config: 
+  info: 99919
